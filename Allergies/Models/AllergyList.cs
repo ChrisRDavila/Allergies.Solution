@@ -3,10 +3,14 @@ namespace Allergies.Models
   public class AllergyList
   {
     public int Score{get;set;}
+
+    private int[] scoreArray = {128, 64, 32, 16, 8, 4, 2, 1};
+    private string[] keyArray = {"cats", "pollen", "chocolate", "tomatoes", "strawberries", "shellfish", "peanuts", "eggs"};
     public AllergyList(int score)
     {
       Score = score;
     }
+
   }
 }
 

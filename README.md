@@ -1,8 +1,8 @@
-# (Application Name)
+# (Allergy Solution)
 
-#### (Brief Description of Application)
+#### (basic C# app using database basics and MySQL to track inputs on MVC structure)
 
-#### By (Your Name Here)
+#### By (Christopher Davila)
 
 ## Technologies Used
 
